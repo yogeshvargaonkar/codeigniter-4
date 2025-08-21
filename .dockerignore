@@ -1,0 +1,15 @@
+.git
+.gitignore
+Dockerfile
+.dockerignore
+node_modules
+vendor
+tests
+.env.local
+.env.dev
+*.log
+*.bak
+*.tmp
+.idea
+.vscode
+.envrc
